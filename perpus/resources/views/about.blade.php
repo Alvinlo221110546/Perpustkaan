@@ -8,7 +8,7 @@
 </head>
 <body class="bg-gray-50 text-gray-900">
 
-    <!-- Navbar -->
+    
     <header class="bg-blue-900 text-white py-6 shadow-lg">
         <div class="container mx-auto flex justify-between items-center px-6">
             <div class="flex items-center space-x-8">
@@ -93,12 +93,12 @@
 
 
 
-    <!-- Main Content -->
+    
     <main class="py-16">
         <div class="container mx-auto">
             <h2 class="text-4xl font-bold text-center mb-10 text-blue-900">Tentang Kami</h2>
             
-            <!-- First Section -->
+            
             <section class="mb-16">
                 <div class="bg-white p-8 rounded-lg shadow-md">
                     <h3 class="text-3xl font-semibold text-blue-800 mb-4">Misi Kami</h3>
@@ -108,7 +108,7 @@
                 </div>
             </section>
 
-            <!-- Second Section -->
+            
             <section class="mb-16">
                 <div class="bg-white p-8 rounded-lg shadow-md">
                     <h3 class="text-3xl font-semibold text-blue-800 mb-4">Visi Kami</h3>
@@ -118,7 +118,7 @@
                 </div>
             </section>
 
-            <!-- Why Choose Us Section -->
+            
             <section class="text-center">
                 <div class="bg-blue-100 p-8 rounded-lg shadow-md">
                     <h3 class="text-3xl font-semibold text-blue-900 mb-6">Mengapa Memilih Perpustakaan Kami?</h3>

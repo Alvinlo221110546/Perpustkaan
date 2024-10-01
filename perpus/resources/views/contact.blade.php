@@ -9,8 +9,6 @@
 </head>
 
 <body class="bg-gray-100 text-gray-900">
-
-    <!-- Navbar -->
     <header class="bg-blue-900 text-white py-6 shadow-lg">
         <div class="container mx-auto flex justify-between items-center px-6">
             <div class="flex items-center space-x-8">

@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Perpustakaan online dengan koleksi buku terbaik">
     <title>Perpustakaan Online</title>
-    <!-- Link CDN Tailwind -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
     .fade-in {
@@ -115,7 +114,7 @@
 
 
 
-<!-- Hero Section Full-Screen with Image and Text -->
+
 <section class="h-screen  flex items-center justify-center">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between px-6">
         <!-- Image Section -->
@@ -123,7 +122,7 @@
             <img src="https://th.bing.com/th/id/OIP.IyHCC216oCTjjMwSkhQGMwHaDv?w=297&h=176&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Library" class="w-full h-auto rounded-lg shadow-lg">
         </div>
 
-        <!-- Text Section -->
+        
         <div class="w-full md:w-1/2  bg-opacity-70 p-8 rounded-lg text-black">
             <h2 class="text-5xl font-bold mb-4">Perpustakaan Modern untuk Semua</h2>
             <p class="text-xl mb-6">Akses ribuan buku, dari fiksi hingga non-fiksi, yang bisa diakses kapan saja di mana saja. Bergabunglah sekarang dan temukan buku favorit Anda.</p>
@@ -133,7 +132,7 @@
     </div>
 </section>
 
-<!-- Feature Section with Animation -->
+
 <section class="py-16 bg-blue-50 fade-in">
     <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold text-teal-700 mb-8">Kenapa Memilih Kami?</h2>
@@ -157,7 +156,7 @@
     </div>
 </section>
 
-<!-- New Section with Background -->
+
 <section class="py-16 bg-white">
     <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold text-blue-700 mb-8">Temukan Buku Favorit Anda</h2>
@@ -203,9 +202,9 @@
     </div>
 </footer>
 
-<!-- JavaScript Animations -->
+
 <script>
-    // Fade in effect for sections
+    
     document.addEventListener('DOMContentLoaded', function() {
         const fadeInElements = document.querySelectorAll('.fade-in');
         fadeInElements.forEach(el => {
@@ -213,7 +212,7 @@
         });
     });
 
-    // Scale-up effect for featurecards
+    
     const scaleUpElements = document.querySelectorAll('.scale-up');
     window.addEventListener('scroll', () => {
         scaleUpElements.forEach(el => {
