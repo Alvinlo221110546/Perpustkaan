@@ -286,7 +286,7 @@
                     <button type="button" onclick="closeModal('bookModal')"
                         class="text-gray-400 hover:text-gray-600">
                         <span class="sr-only">Close</span>
-                        <!-- X Icon -->
+                        
                         <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                             stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
